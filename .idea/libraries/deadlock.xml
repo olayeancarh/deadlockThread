@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="deadlock">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/deadlock.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
